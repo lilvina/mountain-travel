@@ -64,6 +64,11 @@ header nav li {
   margin: 0 15px;
 }
 
+header nav {
+  display: flex;
+  margin-right: -15px;
+}
+
 .hero {
   position: relative;
   justify-content: center;
